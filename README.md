@@ -1,6 +1,6 @@
 # Spring-lazyload Practice Project
 
-This project is used to understand how Hibernate SQL queries are being called when using EAGER fetching or LAZY fetching for ManyToOne relationships.
+This project is used to understand how Hibernate SQL queries are being called when using EAGER fetching or LAZY fetching for ManyToOne relationships. Standard interface implementations are omitted in order to quickly spin up a project for learning / debugging purposes.
 
 Models
 - Student
